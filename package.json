@@ -1,0 +1,14 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "A web server built using the hapi package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Åkerblom-Andersson",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^13.4.1"
+  }
+}
